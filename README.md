@@ -9,4 +9,15 @@ A test assembly file is included in the repo, mirror the format.
 Ensure you have the lastest version of Python installed. Execute the Python script from the command line and the output file
 should contain your assembled code.
 
+Current working instructions:
+add
+addi
+beq
+j
+jr
+lw
+srl
+sub
+sw
+
 Outputs 32-bit hexadecimal, in Altera ROM file format. Tested machine code to work on Altera Cyclone III FPGA. 
