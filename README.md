@@ -10,14 +10,14 @@ Ensure you have the lastest version of Python installed. Execute the Python scri
 should contain your assembled code.
 
 Current working instructions:
--add
--addi
--beq
--j
--jr
--lw
--srl
--sub
--sw
+- add
+- addi
+- beq
+- j
+- jr
+- lw
+- srl
+- sub
+- sw
 
 Outputs 32-bit hexadecimal, in Altera ROM file format. Tested machine code to work on Altera Cyclone III FPGA. 
