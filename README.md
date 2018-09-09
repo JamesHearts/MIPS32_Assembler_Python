@@ -3,10 +3,10 @@
 For a C++ version of the assembler. See MIPS32_Compiler.
 
 This compiler is straightforward.
-Provide assembly in the desired format. The file must be in the same directory as the assembler. 
+First, provide assembly in the desired format. The file must be in the same directory as the assembler. 
 A test assembly file is included in the repo, mirror the format. 
 
-Ensure you have the lastest version of Python installed. Execute the Python script from the command line and the output file
+Ensure you have the latest version of Python installed. Execute the Python script from the command line and the output file
 should contain your assembled code.
 
 Current working instructions:
